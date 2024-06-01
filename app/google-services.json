@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255784716332",
+    "project_id": "quizapp-benelabdy",
+    "storage_bucket": "quizapp-benelabdy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255784716332:android:b52a353ac15602f31fe989",
+        "android_client_info": {
+          "package_name": "com.example.anew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoysYbB5ofncRXVZz1Ioq09ArYqrGhRuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255784716332:android:d154e51b82b66d651fe989",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoysYbB5ofncRXVZz1Ioq09ArYqrGhRuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

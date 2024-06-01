@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RepportApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="vous_avez_deja_un_compte_connectez_vous_ici">Vous avez deja un compte</string>
+    <string name="enter_caption">Enter desc</string>
+    <string name="add">Submit</string>
+    <string name="retour">Retour</string>
+    <string name="g_n_rer_rapport">Générer rapport</string>
+    <string name="pdf_download">pdf_download</string>
+    <string name="would_you_like_to_download_the_pdf">would you like to download the pdf</string>
+    <string name="download">download</string>
+    <string name="cancel">cancel</string>
+</resources>
